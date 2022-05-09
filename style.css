@@ -1,0 +1,47 @@
+body{
+    
+    background-color: hsl(212, 45%, 89%);
+    font-family: outfit;
+}
+.box{
+    display: inline-block;
+    background-color: white;
+    width: 22%;
+    margin: 81px 490px;
+    border-radius: 18px;
+
+}
+.contain{
+    display: flex;
+    flex-direction: column;
+    
+}
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.qr{
+    width: 90%;
+    margin-top: 15px; 
+    border-radius: 8px;
+}
+
+
+.text-bold{
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom:15px ;
+}
+.text-light{
+    text-align: center;
+    font-weight: 400;
+    font-size: 14px;
+    margin-top: 0px;
+    margin-bottom: 40px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: hsl(220, 15%, 55%);
+}
+
