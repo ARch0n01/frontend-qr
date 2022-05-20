@@ -4,10 +4,11 @@ body{
     font-family: outfit;
 }
 .box{
-    display: inline-block;
     background-color: white;
-    width: 22%;
-    margin: 81px 490px;
+    width: 300px;
+    height: 450px;
+    margin: auto;
+    margin-top:6%;
     border-radius: 18px;
 
 }
